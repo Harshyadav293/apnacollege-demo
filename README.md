@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my first Repository.
 <br>
-Author - Harsh Yadav
+Author - Harsh Yadav(Apna College)
 
